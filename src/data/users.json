@@ -31,28 +31,45 @@
         }
     ]
   },
+  
   {
     "id": "2",
-    "avatar": "https://cdn-icons-png.flaticon.com/512/616/616438.png",
-    "name": "Kiwi",
-    "isCheck": false,    
-    "messages": [
-        {"id": 1,
-      "msgText": "Hello Kiwi!",
-      "date": "4/22/17, 4:00 AM"
-      },
-        {"id": 2,
-      "msgText": "Jesus didn't rise and ascend to the heavens on the 3rd day. Chuck Norris round kick him back to life and simultaneously killed him again sending him to heaven.",
-      "date": "4/22/17, 4:05 AM"
-      }   
-    ]
-  },
-  {
-    "id": "3",
     "avatar": "https://cdn-icons-png.flaticon.com/512/1623/1623681.png",
     "name": "Ajax",
     "isCheck": true,    
-    "messages":[]
+    "messages": [ 
+      {"id": 1,
+        "msgText": "Hello Ajax",
+        "date": "4/22/17, 4:00 AM"
+        },
+      {"id": 2,
+        "msgText": "America is not a democracy. Its a Chucktatorship ruled by Chuck Norris.",
+        "date": "4/22/17, 4:00 AM"
+        },
+        {"id": 3,
+      "msgText": "Ha-Ha",
+      "date": "4/22/17, 4:10 AM"
+      },
+      {"id": 4,
+        "msgText": "Chuck Norris breaks the 2nd law of thermodynamics every time he cleans his house.",
+        "date": "4/22/17, 4:15 AM"
+        }, 
+      {"id": 5,
+        "msgText": "Next one",
+        "date": "4/22/17, 4:00 AM"
+        },
+      {"id": 6,
+        "msgText": "Chicken tastes like Chuck Norris",
+        "date": "4/22/17, 4:00 AM"
+        }
+      ]
+  },
+  {
+    "id": "3",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/616/616438.png",
+    "name": "Kiwi",
+    "isCheck": false,    
+    "messages": []
   },
   {
     "id": "4",
