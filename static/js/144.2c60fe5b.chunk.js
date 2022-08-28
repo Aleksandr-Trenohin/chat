@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchat=self.webpackChunkchat||[]).push([[144],{3144:function(t,a,e){e.r(a),e.d(a,{default:function(){return i}});var c="Chat_mainPage__HiASt",n="Chat_title__HSlyR",h=e(184),i=function(){return(0,h.jsx)("div",{className:c,children:(0,h.jsx)("h1",{className:n,children:"Select the contact you want to chat with!"})})}}}]);
+//# sourceMappingURL=144.2c60fe5b.chunk.js.map

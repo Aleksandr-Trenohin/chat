@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchat=self.webpackChunkchat||[]).push([[154],{9154:function(n,t,e){e.r(t),e.d(t,{default:function(){return c}});var o=e(3504),a="NotFoundPage_notFound__343HW",u="NotFoundPage_link__iZyh1",s=e(184),c=function(){return(0,s.jsxs)("h2",{className:a,children:["Sorry, page not found! Go to"," ",(0,s.jsx)(o.rU,{to:"/",className:u,children:"Chats"})]})}}}]);
+//# sourceMappingURL=154.9a4ec15c.chunk.js.map

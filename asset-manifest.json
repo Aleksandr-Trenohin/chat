@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/chat/static/css/main.d4856852.css",
+    "main.js": "/chat/static/js/main.b2781784.js",
+    "static/css/144.c11bbdea.chunk.css": "/chat/static/css/144.c11bbdea.chunk.css",
+    "static/js/144.2c60fe5b.chunk.js": "/chat/static/js/144.2c60fe5b.chunk.js",
+    "static/css/3.0829fcdc.chunk.css": "/chat/static/css/3.0829fcdc.chunk.css",
+    "static/js/3.64e3c930.chunk.js": "/chat/static/js/3.64e3c930.chunk.js",
+    "static/css/154.e7ba573d.chunk.css": "/chat/static/css/154.e7ba573d.chunk.css",
+    "static/js/154.9a4ec15c.chunk.js": "/chat/static/js/154.9a4ec15c.chunk.js",
+    "static/js/110.67373da1.chunk.js": "/chat/static/js/110.67373da1.chunk.js",
+    "index.html": "/chat/index.html",
+    "main.d4856852.css.map": "/chat/static/css/main.d4856852.css.map",
+    "main.b2781784.js.map": "/chat/static/js/main.b2781784.js.map",
+    "144.c11bbdea.chunk.css.map": "/chat/static/css/144.c11bbdea.chunk.css.map",
+    "144.2c60fe5b.chunk.js.map": "/chat/static/js/144.2c60fe5b.chunk.js.map",
+    "3.0829fcdc.chunk.css.map": "/chat/static/css/3.0829fcdc.chunk.css.map",
+    "3.64e3c930.chunk.js.map": "/chat/static/js/3.64e3c930.chunk.js.map",
+    "154.e7ba573d.chunk.css.map": "/chat/static/css/154.e7ba573d.chunk.css.map",
+    "154.9a4ec15c.chunk.js.map": "/chat/static/js/154.9a4ec15c.chunk.js.map",
+    "110.67373da1.chunk.js.map": "/chat/static/js/110.67373da1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4856852.css",
+    "static/js/main.b2781784.js"
+  ]
+}
