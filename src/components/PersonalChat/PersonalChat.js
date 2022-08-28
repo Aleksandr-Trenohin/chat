@@ -20,7 +20,7 @@ const PersonalChat = () => {
 
   const dispatch = useDispatch();
 
-  let myRef = useRef(null);
+  let myRef = useRef();
 
   const { avatar, name, isCheck, messages } = contacts.find(el => el.id === id);
 
