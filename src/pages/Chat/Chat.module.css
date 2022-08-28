@@ -1,0 +1,14 @@
+.mainPage {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  color: #94959b;
+  justify-content: center;
+}
+
+.title {
+  text-align: center;
+  font-size: 30px;
+  line-height: 1.37;
+  font-weight: 500;
+}

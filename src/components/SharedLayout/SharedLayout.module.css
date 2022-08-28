@@ -1,0 +1,96 @@
+.container {
+  background-color: #d1cccc;
+  display: flex;
+  position: fixed;
+  width: 100vw;
+}
+.sideBar {
+  height: 100vh;
+  width: 422px;
+  min-width: 422px;
+  background-color: #fff;
+  border-right: 1px solid #d1cccc;
+}
+.headerBar {
+  padding: 13px 22px;
+  background-color: #f2f2f2;
+  border-bottom: 1px solid #d1cccc;
+  height: 140px;
+}
+.user {
+  margin-bottom: 13px;
+}
+.userWrap {
+  position: relative;
+}
+.userIcon {
+  opacity: 0.6;
+  color: #94959b;
+  background-color: #cccbcb;
+  border-radius: 65px;
+}
+.userCheck {
+  position: absolute;
+  top: 3px;
+  left: 39px;
+  color: #1ba11b;
+}
+
+.avatar {
+  background-color: #f2f2f2;
+  width: 77px;
+  fill: #94959b;
+  border-radius: 50%;
+  margin-bottom: 13px;
+}
+
+.searchInput {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.searchIcon {
+  position: absolute;
+  padding-left: 11px;
+  color: #94959b;
+}
+.input:focus ~ .searchIcon {
+  color: #37d1ec;
+}
+
+.input {
+  font-size: 14px;
+  line-height: 1.14;
+  background-color: #fff;
+  display: block;
+  width: 100%;
+  height: 42px;
+  padding-left: 33px;
+  border: 1px solid #d1cccc;
+  border-radius: 21px;
+}
+.input:focus {
+  border: 1px solid #37d1ec;
+  outline: none;
+  box-shadow: 0px 0px 10px rgb(111 111 111 / 55%);
+}
+
+.chats {
+  padding-top: 33px;
+  padding-bottom: 33px;
+  height: calc(100vh - 140px);
+  position: relative;
+}
+.title {
+  font-size: 22px;
+  line-height: 1.22;
+  font-weight: 500;
+  color: #37d1ec;
+  margin-bottom: 33px;
+  padding-left: 22px;
+}
+
+.chat {
+  flex-grow: 1;
+  background-color: #f2f2f2;
+}

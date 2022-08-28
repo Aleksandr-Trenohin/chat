@@ -1,0 +1,57 @@
+.item {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  padding: 22px;
+  border-bottom: 1px solid #d1cccc;
+}
+.activeItem {
+  composes: item;
+  background-color: #f2f2f2;
+}
+.avatarWrap {
+  position: relative;
+  margin-right: 11px;
+}
+.avatar {
+  color: #94959b;
+  margin-right: 13px;
+  background-color: #cccbcb;
+  border-radius: 65px;
+}
+.itemCheck {
+  position: absolute;
+  top: 42px;
+  left: 39px;
+}
+.isCheck {
+  composes: itemCheck;
+  color: #1ba11b;
+}
+.isNotCheck {
+  composes: itemCheck;
+  color: #94959b;
+}
+.userData {
+  flex-grow: 1;
+}
+.user {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  margin-bottom: 3px;
+}
+.name {
+  font-size: 18px;
+  line-height: 1.18;
+  color: #212121;
+}
+.date {
+  color: #212121;
+}
+.msg {
+  color: #94959b;
+  width: 212px;
+  height: 37px;
+  overflow: hidden;
+}

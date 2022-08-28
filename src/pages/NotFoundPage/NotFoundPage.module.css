@@ -1,0 +1,12 @@
+.notFound {
+  padding-top: 88px;
+  text-align: center;
+  color: #212121;
+}
+.link {
+  color: #37d1ec;
+}
+.link:hover,
+.link:focus {
+  color: #d1cccc;
+}

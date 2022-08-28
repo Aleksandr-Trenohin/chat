@@ -1,0 +1,14 @@
+.chatList {
+  overflow: auto;
+  height: 100%;
+  padding-bottom: 22px;
+}
+.chatList::-webkit-scrollbar {
+  width: 3px;
+}
+.chatList::-webkit-scrollbar-track {
+  background-color: #d6d3d3;
+}
+.chatList::-webkit-scrollbar-thumb {
+  box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);
+}
