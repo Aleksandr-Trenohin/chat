@@ -81,6 +81,7 @@ const PersonalChat = () => {
 
   return (
     <>
+      {error && alert('Oop! Something went wrong! Try again later!')}
       <div className={s.content}>
         <div className={s.user}>
           <span className={s.avatarWrap}>
