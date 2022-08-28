@@ -35,7 +35,7 @@ const PersonalChat = () => {
 
   useEffect(() => {
     if (messages.length !== 0) {
-      myRef.current.scrollIntoView();
+      myRef.current?.scrollIntoView();
     }
   }, [messages]);
 
